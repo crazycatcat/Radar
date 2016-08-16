@@ -1,3 +1,4 @@
-#pythonÅúÁ¿ÖÆ×÷À×´ïÍ¼
-»ùÓÚpython3.4ÅúÁ¿ÖÆ×÷À×´ïÍ¼
-ÏêÇéÇë¼ûradar.pdf
+#pythonæ‰¹é‡åˆ¶ä½œé›·è¾¾å›¾
+Â»åŸºäºŽpython3.4å†™çš„
+è¯¦ç»†å†…å®¹è¯·çœ‹
+radar.pdf
